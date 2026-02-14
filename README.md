@@ -1,3 +1,4 @@
 # test-project1
 this is my first Git repository
-Author - Prince
+Author - Prince Mohanty
+
